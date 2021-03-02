@@ -3,9 +3,9 @@ Employee Management System
 
 ## Environment
 
-> Language: Java
-> Framework: SpringBoot 2
-> Database: Microsoft SQL Sever 2019
+- Language: Java
+- Framework: SpringBoot 2
+- Database: Microsoft SQL Sever 2019
 
 ## Setup Guide
 
