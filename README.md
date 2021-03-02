@@ -14,6 +14,6 @@ Employee Management System
 3. Run SpringBootDemoApplication.java, project use Hibernate to auto create table in database.
 
 ## API
-- **/employees** Return all Employee
-- **/teams** Return all Team and Employee belong to each team
-- **/company-structure** Return company structure include Director and all Department, Team and Employee belong to each other
+- ***/employees*** Return all Employee
+- ***/teams*** Return all Team and Employee belong to each team
+- ***/company-structure*** Return company structure include Director and all Department, Team and Employee belong to each other
