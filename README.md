@@ -17,3 +17,4 @@ Employee Management System
 - ***/employees*** Return all Employee
 - ***/teams*** Return all Team and Employee belong to each team
 - ***/company-structure*** Return company structure include Director and all Department, Team and Employee belong to each other
+- Basic Authentication API with username and password: admin/password
